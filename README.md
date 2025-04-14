@@ -1,4 +1,4 @@
-## 💳 Carteira Digital - Backend
+# 💳 Carteira Digital - Backend
 
 **Sistema backend desenvolvido em Python utilizando SQLModel para gerenciamento de contas bancárias, controle de saldo, movimentações financeiras e geração de relatórios com histórico e gráficos. A aplicação segue os princípios de modularização e separação de responsabilidades (MVC simplificado).**
 
