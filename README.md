@@ -81,7 +81,7 @@ Certifique-se de ter o Python 3.11+ instalado.
 ## 📈 Em desenvolvimento
 - Filtros avançados por data e tipo de transação
 
- -Exportação de histórico financeiro
+- Exportação de histórico financeiro
 
 - Integração com frontend (futuro)
 
